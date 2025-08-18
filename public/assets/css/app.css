@@ -1,0 +1,19 @@
+/* Scope bootstrap styles so they don't leak globally */
+.bootstrap-scope {
+    font-family: inherit;
+    color: inherit;
+}
+
+/* Keep Bootstrap table formatting */
+.bootstrap-scope .table {
+    margin-bottom: 1rem;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+/* Ensure container does not overlap sidebar */
+.bootstrap-scope .container {
+    max-width: 100%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
