@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://via.placeholder.com/900x250?text=Welcome+to+My+Full+Stack+Project" alt="Welcome Image"/></p>
+# <p align="center"><img src="https://github.com/user-attachments/assets/8c2de9bd-1e2c-42c5-950a-e8ab6d5bfa82" alt="Welcome Image"/></p>
 
 # 🎓 Full Stack Final Project
 
