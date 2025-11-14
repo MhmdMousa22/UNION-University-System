@@ -29,7 +29,7 @@ This project is designed to demonstrate a fully working full‑stack application
 ## 📂 Project Structure
 
 ```
-your-project/
+project/
 │
 ├── frontend/
 │   ├── index.html
