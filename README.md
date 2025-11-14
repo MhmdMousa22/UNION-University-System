@@ -19,9 +19,9 @@ This project is designed to demonstrate a fully working full‑stack application
 
 ## 🔧 Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript *(update if needed)*
-**Backend:** Node.js, Express *(update if needed)*
-**Database:** MongoDB / MySQL *(choose the correct one)*
+**Frontend:** HTML, CSS, JavaScript, BootStrap
+**Backend:** PHP Native, Laravel Framework
+**Database:** SQL / MySQL
 **Other Tools:** Git, Postman, npm, etc.
 
 ---
@@ -50,8 +50,8 @@ project/
 
 * ✔️ Fully functional CRUD operations
 * ✔️ Responsive UI design
-* ✔️ RESTful API integration
-* ✔️ Authentication / validation *(if applicable)*
+* ✔️ API integration
+* ✔️ Authentication / validation
 * ✔️ Error handling and clean code structure
 
 ---
@@ -104,7 +104,3 @@ This project is available under the **[MIT License](https://opensource.org/licen
 ## 🙌 Acknowledgments
 
 Thanks to everyone who supported me throughout this course — this project reflects everything I’ve learned and the progress I’ve made.
-
----
-
-If you'd like me to customize this README further (replace the placeholder image, add badges, or tailor it to the exact functionality of your project), just tell me!
